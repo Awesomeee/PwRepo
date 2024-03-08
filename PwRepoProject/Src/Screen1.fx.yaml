@@ -41,3 +41,10 @@ Screen1 As screen:
         Y: =392
         ZIndex: =4
 
+    Label3_1 As label:
+        Size: =20
+        Text: ="bike"
+        X: =1147
+        Y: =392
+        ZIndex: =5
+
