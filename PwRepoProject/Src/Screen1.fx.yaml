@@ -19,3 +19,9 @@ Screen1 As screen:
         Y: =624
         ZIndex: =2
 
+    TextInput1 As text:
+        Default: ="Text input"
+        X: =232
+        Y: =540
+        ZIndex: =3
+
