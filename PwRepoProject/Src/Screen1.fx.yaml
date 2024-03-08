@@ -54,3 +54,11 @@ Screen1 As screen:
         Y: =454
         ZIndex: =6
 
+    Label5 As label:
+        Height: =56
+        Text: ="KÉo về đi a duy ơi"
+        Width: =307
+        X: =936
+        Y: =268
+        ZIndex: =7
+
