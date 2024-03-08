@@ -7,12 +7,13 @@
     "Host": 3,
     "Label1": 5,
     "Label2": 7,
+    "Label3": 9,
     "Screen1": 4,
     "TextInput1": 8
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "03/08/2024 07:15:13",
+  "HeaderLastSavedDateTimeUTC": "03/08/2024 07:17:36",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": true,
@@ -35,6 +36,7 @@
     "Host": {},
     "Label1": {},
     "Label2": {},
+    "Label3": {},
     "Screen1": {},
     "TextInput1": {}
   },
@@ -46,6 +48,7 @@
     "Host": 0,
     "Label1": 4,
     "Label2": 6,
+    "Label3": 0,
     "Screen1": 3,
     "TextInput1": 7
   },
@@ -53,14 +56,14 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0149148,
+    "AnalysisLoadTime": 0.0880993,
     "ControlCount": {
       "button": 1,
       "label": 2,
       "screen": 1,
       "text": 1
     },
-    "DeserializationLoadTime": 0.4664942
+    "DeserializationLoadTime": 0.4558066
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
