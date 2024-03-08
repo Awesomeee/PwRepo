@@ -19,3 +19,12 @@ Screen1 As screen:
         Y: =624
         ZIndex: =2
 
+    Label2 As label:
+        Height: =85
+        Size: =20
+        Text: ="Duyl"
+        Width: =310
+        X: =761
+        Y: =370
+        ZIndex: =3
+
